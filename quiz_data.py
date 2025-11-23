@@ -1,0 +1,38 @@
+quiz_questions = {
+    "math": [
+        {"question": "2 + 5 = ?", "options": ["6","7","8"], "answer":"7"},
+        {"question": "5 * 3 = ?", "options":["15","8","10"], "answer":"15"},
+        {"question": "Square root of 81?", "options":["7","8","9"], "answer":"9"},
+        {"question": "10 - 4 = ?", "options":["6","5","7"], "answer":"6"},
+        {"question": "12 ÷ 3 = ?", "options":["4","5","3"], "answer":"4"},
+        {"question": "7 + 8 = ?", "options":["14","15","16"], "answer":"15"},
+        {"question": "9 * 2 = ?", "options":["18","16","20"], "answer":"18"},
+        {"question": "Square root of 64?", "options":["6","8","7"], "answer":"8"},
+        {"question": "15 - 9 = ?", "options":["6","5","7"], "answer":"6"},
+        {"question": "20 ÷ 4 = ?", "options":["5","6","4"], "answer":"5"},
+    ],
+    "science": [
+        {"question": "Water's chemical formula?", "options":["H2O","CO2","NaCl"], "answer":"H2O"},
+        {"question": "Sun rises in?", "options":["West","East","North"], "answer":"East"},
+        {"question": "Earth revolves around?", "options":["Sun","Moon","Mars"], "answer":"Sun"},
+        {"question": "Humans breathe in?", "options":["Oxygen","CO2","Nitrogen"], "answer":"Oxygen"},
+        {"question": "Force = mass * ?", "options":["Acceleration","Speed","Distance"], "answer":"Acceleration"},
+        {"question": "What planet is red?", "options":["Mars","Venus","Jupiter"], "answer":"Mars"},
+        {"question": "Boiling point of water?", "options":["100°C","90°C","120°C"], "answer":"100°C"},
+        {"question": "Chemical symbol for Sodium?", "options":["Na","S","So"], "answer":"Na"},
+        {"question": "Energy from Sun?", "options":["Solar","Wind","Water"], "answer":"Solar"},
+        {"question": "H2O is?", "options":["Liquid","Solid","Gas"], "answer":"Liquid"},
+    ],
+    "english": [
+        {"question": "Plural of child?", "options":["childs","children","childes"], "answer":"children"},
+        {"question": "Antonym of hot?", "options":["cold","warm","cool"], "answer":"cold"},
+        {"question": "Past tense of go?", "options":["went","goed","gone"], "answer":"went"},
+        {"question": "Synonym of happy?", "options":["Sad","Joyful","Angry"], "answer":"Joyful"},
+        {"question": "Plural of mouse?", "options":["mouses","mice","mouse"], "answer":"mice"},
+        {"question": "Opposite of tall?", "options":["Short","Long","Tiny"], "answer":"Short"},
+        {"question": "Plural of fox?", "options":["foxes","foxs","foxe"], "answer":"foxes"},
+        {"question": "Past tense of run?", "options":["ran","runned","run"], "answer":"ran"},
+        {"question": "Synonym of big?", "options":["Large","Small","Tiny"], "answer":"Large"},
+        {"question": "Antonym of light?", "options":["Dark","Heavy","Bright"], "answer":"Dark"},
+    ]
+}
